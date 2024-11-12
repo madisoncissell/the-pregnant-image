@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="https://images.squarespace-cdn.com/content/v1/5ca8e2d577b9033a1a06d8c0/1593705458859-XNA10WI77AW7HA3261B7/image-asset.jpeg?format=1500w" %}
+{% include feature/image.html objectid="https://images.squarespace-cdn.com/content/v1/5ca8e2d577b9033a1a06d8c0/1593705458859-XNA10WI77AW7HA3261B7/image-asset.jpeg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
