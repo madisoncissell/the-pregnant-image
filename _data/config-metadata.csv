@@ -1,7 +1,6 @@
 field,display_name,browse_link
 title,Title,
 paratext,Paratext,
-sellertitle,Seller's Title,
 creator,Creator,
 seller,Seller,true
 date,Postage Date,
