@@ -1,6 +1,6 @@
 ---
 title: Technical Information
-layout: technical
+layout: about
 permalink: /technical.html
 ---
 
