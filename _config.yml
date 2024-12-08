@@ -20,13 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Ethical Considerations in Archival Practices
+title: The Pregnant Image
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Salvaged Photos, Predatory Sellers, and the Aesthetics of Pregnancy
+tagline: Ethical Considerations in Archival Practices
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This site documents one student's archival decisions surrounding a collection of photographs depicting pregnancy and birth. These film photos were salvaged by a local artist after a general search on Ebay and Etsy produced photos with harmful titles and tags."
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+description: "This site documents the collaboration between a graduate student and an artist-curator as they consider the archival ethics surrounding a collection of photographs salvaged from predatory sellers on eBay and Etsy."
 author: Madison Cissell
 
 ##########
