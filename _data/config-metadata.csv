@@ -1,19 +1,19 @@
 field,display_name,browse_link,external_link
-title,Title,
-sellertitle,Seller's Title,
-paratext, Script on the Back of the Photo, 
-sellernote, Seller's Note, 
-creator,Creator,
-seller,Seller,
-date,Post Date,
-pregnancystage, Stage of Pregnancy,
-context,Description,
-sellerdescription, Seller's Description,
-sellerracedescription, Seller's Race Description, 
-posedescription, Pose Description, 
-faceobstruction, Is the Subject's Face Obstructed?, 
-support, Is Support Present?, 
-supportrole, Presumed Role of Support,
+title,Title
+sellertitle,Seller's Title
+paratext, Script on the Back of the Photo
+sellernote, Seller's Note
+creator,Creator
+seller,Seller
+date,Post Date
+pregnancystage, Stage of Pregnancy
+context,Description
+sellerdescription, Seller's Description
+sellerracedescription, Seller's Race Description
+posedescription, Pose Description
+faceobstruction, Is the Subject's Face Obstructed?
+support, Is Support Present?
+supportrole, Presumed Role of Support
 subject,Subjects,true
 location,Location
 latitude,Latitude
