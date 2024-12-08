@@ -1,6 +1,6 @@
 ---
 title: Data Ethnography
-layout: Data Ethnography
+layout: about
 permalink: /dataethnography.html
 ---
 
