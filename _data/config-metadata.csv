@@ -5,7 +5,6 @@ sellertitle,Seller's Title,
 creator,Creator,
 seller,Seller,true
 date,Postage Date,
-pregnancystage,Pregnancy Stage,true
 context,Description,
 subject,Subects,true
 location,Seller Location,
