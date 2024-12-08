@@ -8,7 +8,7 @@ date,Postage Date,
 pregnancystage,Pregnancy Stage,true
 context,Description,
 sellerdescription,Seller's Description,
-sellerracedescription,Seller's Race Description:,
+sellerracedescription,Seller's Race Description,
 posedescription,Pose Description,
 faceobstruction,Face Obstruction,
 support,Support,
