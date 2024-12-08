@@ -17,16 +17,25 @@ credits: true
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- a folder of JPG images or PDF documents  
+
+## About the Team  
+Emily and Madison met in the Spring 2024 semester in Dr. Barbara Hillers' "Folklore Archives in the Digital Age" course. The class culminated in students volunteering in an on-campus archive and documenting their archival practices. Madison and Emily both expressed interest in Dr. Michelle Caswell's work on community archiving and requested to be placed to volunteer for the Bloomington Area Birth Services (BABS) archiving project. Emily had previously worked with BABS and the steward of the archive, Dr. Georg'ann Cattelona, who also served as the BABS director from XXXX-XXXX. The team counseled with Georg'ann throughout the remainder of the semester as they aided with the transfer, acquisition, and cataloging of the materials from Georg'ann's home to the Kinsey Institute.  
+
+Both collaborators acknowledge that their home, place of study, and work at Indiana University Bloomington is built on Indigenous homelands and resources. We recognize and honor the Miami, Delaware, Potawatomi, and Shawnee people as past, present, and future caretakers of this land.  
+**Madison Cissell**  
+This digital archive was created by Madison Cissell, a graduate student studying folklore and library science at Indiana University. Madison's research interests include: digital community archiving, material culture, foodways, and life cycle rituals. She employs postcustodialism, minimal computing, and cyborg theory to her archival practices. Feel free to contact Madison at madciss@iu.edu with any comments or suggestions about the archive.
+**Emily Zarse**  
+Emily is a visual artist, curator and educator. Her practice centers topics of the body, gender and reproduction, and is grounded in archival activations and community collaborations. She received her MFA in 2022 and her MA in Curatorship in 2024, both from Indiana University. Feel free to learn more about Emily's work [here](https://www.emilyzarse.com/).
 
 ## Bibliography (Demo)
 Canossi, Lesly Deschler. Black Matrilineage, Photography, and Representation.  
 
-Hansen, Bert. “Medical History’s Moment in Art Photography (1920 to 1950): How Lejaren à Hiller and Valentino Sarra Created a Fashion for Scenes of Early Surgery.” Journal of the History of Medicine and Allied Sciences, vol. 72, no. 4, Oct. 2017, pp. 381–421. DOI.org (Crossref), https://doi.org/10.1093/jhmas/jrx037.  
+Hansen, Bert. “Medical History’s Moment in Art Photography (1920 to 1950): How Lejaren à Hiller and Valentino Sarra Created a Fashion for Scenes of Early Surgery.” Journal of the History of Medicine and Allied Sciences, vol. 72, no. 4, Oct. 2017, pp. 381–421. DOI.org (Crossref), [https://doi.org/10.1093/jhmas/jrx037] (https://doi.org/10.1093/jhmas/jrx037).  
 
-Samuels, Ellen. “Six Ways of Looking at Crip Time.” Disability Studies Quarterly, vol. 37, no. 3, Aug. 2017. DOI.org ((Crossref)), (https://doi.org/10.18061/dsq.v37i3.5824).  
+Samuels, Ellen. “Six Ways of Looking at Crip Time.” Disability Studies Quarterly, vol. 37, no. 3, Aug. 2017. DOI.org ((Crossref)), [https://doi.org/10.18061/dsq.v37i3.5824] (https://doi.org/10.18061/dsq.v37i3.5824).  
 
-Tai, Jessica. “Cultural Humility as a Framework for Anti-Oppressive Archival Description.” Journal of Critical Library and Information Studies, vol. 3, no. 2, Oct. 2020. DOI.org (Crossref), https://doi.org/10.24242/jclis.v3i2.120.  
+Tai, Jessica. “Cultural Humility as a Framework for Anti-Oppressive Archival Description.” Journal of Critical Library and Information Studies, vol. 3, no. 2, Oct. 2020. DOI.org (Crossref), [https://doi.org/10.24242/jclis.v3i2.120] (https://doi.org/10.24242/jclis.v3i2.120).  
 
 
 
