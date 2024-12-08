@@ -7,11 +7,5 @@ seller,Seller,true
 date,Postage Date,
 pregnancystage,Pregnancy Stage,true
 context,Description,
-sellerdescription,Seller's Description,
-sellerracedescription,Seller's Race Description,
-posedescription,Pose Description,
-faceobstruction,Face Obstruction,
-support,Support,
-supportrole,Support Role,
 subject,Subects,true
 location,Seller Location,
