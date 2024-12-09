@@ -18,9 +18,9 @@ I was first introduced to pawpaws by my grandfather, who grows them in a grove i
 
 # Visualization Made in Flourish  
 
-insert image 
+{% include feature/image.html objectid="<div class="flourish-embed flourish-word-cloud" data-src="visualisation/20008789"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20008789/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>" %}
 
-You can few this visualization in Flourish by following [this link](https://public.flourish.studio/visualisation/20008789/). 
+You can few this visualization in Flourish by following **[this link](https://public.flourish.studio/visualisation/20008789/)**. 
 
 I chose to create a word cloud from my current dataset for a few reasons. First, I think the technical issues I have been running into with Flourish’s data visualization tools is due to most of my data being descriptive and qualitative, not numerical. Originally, I wanted to create visualizations that would compare the number of photographs that featured a subject that either had an obstructed or non-obstructed face. The largest ethical concern the digitization of this archive presents is centered around the reproduction of these images, and scanning and uploading reproductions of these photos could prove to only enhance the harm already done to them. Additionally, the women depicted in the archive have already been “invisiblized”, ghostly images of erased women. Their identities (pregnant, woman, non-white), too, already vulnerable and now additionally erased by the obstruction of their face, their key identifying feature. The frequency of the subject’s facial identity being obstructed could contribute to the conversations already taking place in this archival process. However, because my metadata only describes “facial obstruction” as either “yes” or “no”, I would need to re-configure my dataset to meet the requirements for visualization (I think). But I think it would be illuminating to see how often subjects’ faces are obstructed. At first, I thought this was a rare occurrence, but in the first batch of data entry, I found it to be more common than I initially realized.  
 
