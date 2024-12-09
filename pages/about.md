@@ -25,7 +25,7 @@ Emily and Madison met in the Spring 2024 semester in Dr. Barbara Hillers' "Folkl
 Both collaborators acknowledge that their home, place of study, and work at Indiana University Bloomington is built on Indigenous homelands and resources. We recognize and honor the Miami, Delaware, Potawatomi, and Shawnee people as past, present, and future caretakers of this land.  
 
 **Madison Cissell**  
-This digital archive was created by Madison Cissell, a graduate student studying folklore and library science at Indiana University. Madison's research interests include: digital community archiving, material culture, foodways, and life cycle rituals. She employs postcustodialism, minimal computing, and cyborg theory to her archival practices. Feel free to contact Madison at [madciss@iu.edu] (madciss@iu.edu) with any comments or suggestions about the archive.  
+This digital archive was created by Madison Cissell, a graduate student studying folklore and library science at Indiana University. Madison's research interests include: digital community archiving, material culture, foodways, and life cycle rituals. She employs postcustodialism, minimal computing, and cyborg theory to her archival practices. Feel free to contact Madison at [madciss@iu.edu](madciss@iu.edu) with any comments or suggestions about the archive.  
 
 **Emily Zarse**  
 Emily is a visual artist, curator and educator. Her practice centers topics of the body, gender and reproduction, and is grounded in archival activations and community collaborations. She received her MFA in 2022 and her MA in Curatorship in 2024, both from Indiana University. Feel free to learn more about Emily's work **[here](https://www.emilyzarse.com/)**.
