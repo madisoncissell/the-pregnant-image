@@ -18,7 +18,7 @@ I was first introduced to pawpaws by my grandfather, who grows them in a grove i
 
 # Visualization Made in Flourish  
 
-{% include feature/image.html objectid="<div class="flourish-embed flourish-word-cloud" data-src="visualisation/20008789"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20008789/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>" %}
+{% include feature/image.html objectid=""https://public.flourish.studio/visualisation/20008789/thumbnail" %}
 
 You can few this visualization in Flourish by following **[this link](https://public.flourish.studio/visualisation/20008789/)**. 
 

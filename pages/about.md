@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/image.html objectid="https://images.squarespace-cdn.com/content/v1/5ca8e2d577b9033a1a06d8c0/1593705458859-XNA10WI77AW7HA3261B7/image-asset.jpeg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Team" %}
 
 ## About the Collection
 
@@ -30,8 +30,6 @@ This digital archive was created by Madison Cissell, a graduate student studying
 **Emily Zarse**  
 Emily is a visual artist, curator and educator. Her practice centers topics of the body, gender and reproduction, and is grounded in archival activations and community collaborations. She received her MFA in 2022 and her MA in Curatorship in 2024, both from Indiana University. Feel free to learn more about Emily's work **[here](https://www.emilyzarse.com/)**.
 
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
