@@ -3,6 +3,7 @@ title: Technical Information
 layout: about
 permalink: /technical.html
 ---
+{% include feature/nav-menu.html sections="Content, Context, and Users (DEMO);Visualization Made in Flourish;Documentation of elements;Required CollectionBuilder elements;CollectionBuilder visualization elements;Optional CollectionBuilder elements (DEMO);Customized Elements" %}
 
 # Content, Context, and Users (DEMO)
 
@@ -34,6 +35,7 @@ My only other experience with word clouds has been via Voyant’s textual analys
 
 
 # Documentation of elements
+
 ## Required CollectionBuilder elements
 
 **Objectid**
@@ -129,3 +131,5 @@ My only other experience with word clouds has been via Voyant’s textual analys
 - **Applicable controlled vocabularies:** N/A  
 - **Mapping to Dublin Core:** “Creator” <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/creator/"> Dublin Core Standards for "Creator" </a> 
 - **Example:** Madison Cissell 
+
+## Customized Elements
