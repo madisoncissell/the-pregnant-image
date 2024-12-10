@@ -3,6 +3,9 @@ title: Technical Information
 layout: about
 permalink: /technical.html
 ---
+{% include feature/accordion.html title1="Content, Context, and Users (DEMO)" text1=example1 title2="Visualization Made in Flourish" text2=example2 title3="Documentation of elements" text3=example3 %}
+
+
 {% include feature/nav-menu.html sections="Content, Context, and Users (DEMO);Visualization Made in Flourish;Documentation of elements;Required CollectionBuilder elements;CollectionBuilder visualization elements;Optional CollectionBuilder elements (DEMO);Customized Elements" %}
 
 # Content, Context, and Users (DEMO)
